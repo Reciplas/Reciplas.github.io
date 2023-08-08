@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reciplas/Reciplas.github.io/static/css/main.0d3b3e4a.css",
+    "main.js": "/Reciplas/Reciplas.github.io/static/js/main.ee536c1d.js",
+    "static/js/496.4cfe0d42.chunk.js": "/Reciplas/Reciplas.github.io/static/js/496.4cfe0d42.chunk.js",
+    "static/media/fondo.login.jpg": "/Reciplas/Reciplas.github.io/static/media/fondo.login.5f58020956369d649174.jpg",
+    "static/media/foto-osiris.jpg": "/Reciplas/Reciplas.github.io/static/media/foto-osiris.5322f7c1d917f7a61e57.jpg",
+    "static/media/foto-canelaTriste.jpg": "/Reciplas/Reciplas.github.io/static/media/foto-canelaTriste.f381c28de041d02e78d8.jpg",
+    "static/media/foto-enzo.jpg": "/Reciplas/Reciplas.github.io/static/media/foto-enzo.db1bc9c3e56fae858dc2.jpg",
+    "static/media/foto-canela.jpg": "/Reciplas/Reciplas.github.io/static/media/foto-canela.cde9f9e4a00a606efdeb.jpg",
+    "static/media/foto-tobi.jpg": "/Reciplas/Reciplas.github.io/static/media/foto-tobi.6993fa167c9212d88ec4.jpg",
+    "static/media/reciplas-logo.png": "/Reciplas/Reciplas.github.io/static/media/reciplas-logo.11773af2e59a87a6da96.png",
+    "index.html": "/Reciplas/Reciplas.github.io/index.html",
+    "main.0d3b3e4a.css.map": "/Reciplas/Reciplas.github.io/static/css/main.0d3b3e4a.css.map",
+    "main.ee536c1d.js.map": "/Reciplas/Reciplas.github.io/static/js/main.ee536c1d.js.map",
+    "496.4cfe0d42.chunk.js.map": "/Reciplas/Reciplas.github.io/static/js/496.4cfe0d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d3b3e4a.css",
+    "static/js/main.ee536c1d.js"
+  ]
+}
